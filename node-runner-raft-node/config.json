@@ -1,0 +1,39 @@
+{
+    "node" : {
+        "id": 11890,
+        "url": "http://127.0.0.1:17080"
+      },
+    "peers": [
+      {
+        "id": "1",
+        "url": "http://localhost:3001",
+        "electionTimeout": 2000,
+        "heartbeatInterval": 500
+      },
+      {
+        "id": "2",
+        "url": "http://localhost:3002",
+        "electionTimeout": 2000,
+        "heartbeatInterval": 500
+      },
+      {
+        "id": "3",
+        "url": "http://localhost:3003",
+        "electionTimeout": 2000,
+        "heartbeatInterval": 500
+      },
+      {
+        "id": "4",
+        "url": "http://localhost:3004",
+        "electionTimeout": 2000,
+        "heartbeatInterval": 500
+      },
+      {
+        "id": "5",
+        "url": "http://localhost:3005",
+        "electionTimeout": 2000,
+        "heartbeatInterval": 500
+      }
+    ]
+  }
+  
